@@ -10,6 +10,10 @@ public class Car {
     private double engineCC;
     private boolean isCabrio;
 
+    public Car () {
+        
+    }
+
     public void move (Car car) {
         System.out.println("Car " + car.carName + " is moving");
     }
