@@ -1,0 +1,8 @@
+/**
+ * Created by YB on 26.10.2015.
+ */
+public enum Color {
+
+    RED, GREEN, BLUE, WHITE, YELLOW, BLACK, GREY, DARK_GREEN, ORANGE, PINK, BROWN, PURPLE, BURGUNDY, CYAN, ROSE, TAN
+
+}
