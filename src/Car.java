@@ -11,7 +11,11 @@ public class Car {
     private boolean isCabrio;
 
     public Car () {
-        
+        carName = "Default Car Name";
+        doorsCount = 4;
+        maxSpeed = 170;
+        isCabrio = false;
+        engineCC = 1.8;
     }
 
     public void move (Car car) {
